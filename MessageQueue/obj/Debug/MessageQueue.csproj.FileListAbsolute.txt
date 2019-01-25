@@ -1,0 +1,8 @@
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe.config
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\MessageQueue.pdb
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\Experimental.System.Messaging.dll
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\bin\Debug\Experimental.System.Messaging.xml
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\obj\Debug\MessageQueue.csprojResolveAssemblyReference.cache
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\obj\Debug\MessageQueue.exe
+c:\users\shubham.rase\documents\visual studio 2015\Projects\MessageQueue\MessageQueue\obj\Debug\MessageQueue.pdb
